@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-Kor"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Principal investigator: 이상원 (Sang Won Lee) / Laboratory for Resilient Brain and Mind"
+title                    : "Laboratory for Resilient Brain and Mind"
 title_separator          : "-"
 name                     : &name "Laboratory for Resilient Brain and Mind"
 description              : &description "인간의 삶에서 회복탄력성을 높이고, 건강한 뇌와 마음과 관련된 연구를 수행하는 연구실입니다."   # Update this with a general description of your site, this is the default if not overridden by a page
